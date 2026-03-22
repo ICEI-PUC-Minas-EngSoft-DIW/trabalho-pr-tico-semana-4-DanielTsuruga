@@ -8,17 +8,18 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Daniel Eiji Serra Tsuruga
+- Matricula: 912005
+- Proposta de projeto escolhida: Temas e Conteúdos Associados
+- Breve descrição sobre seu projeto: O projeto consiste na criação de uma home-page inspirada em uma plataforma de streaming, como a netflix, apresentando um banner em destaque e categorias de filmes organizadas em listas horizontais, simulando a interface de um serviço de filmes e séries online.
 
 
 ## Print do(s) wireframe(s) criado
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![Wireframe](public/images/wireframe.png)
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+![Home Page](public/images/home-page.png)
