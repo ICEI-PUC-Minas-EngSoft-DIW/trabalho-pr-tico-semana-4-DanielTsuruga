@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* HEADER */
 header {
     display: flex;
     justify-content: space-between;
@@ -64,4 +65,52 @@ header {
 .brand-name {
     padding: 6px 10px;
     border: 1px solid gray;
+}
+
+/* BANNER DESTAQUE */
+.banner {
+    height: 55vh;
+
+    background-image: url("https://picsum.photos/1500/800");
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    position: relative;
+}
+
+.banner-conteudo {
+    max-width: 500px;
+}
+
+.banner h1 {
+    font-size: 48px;
+    margin-bottom: 15px;
+    color: black;
+}
+
+.banner p {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.botoes button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-play {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.btn-info {
+    background-color: rgba(109,109,110,0.7);
+    color: white;
 }
