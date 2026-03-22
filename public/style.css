@@ -126,17 +126,20 @@ header {
     display: flex;
     overflow-x: auto;
     gap: 10px;
+    padding-bottom: 10px;
 }
 
 .filme {
     flex: 0 0 auto;
     overflow: hidden;
+    padding: 5px;
 }
 
 .filme img {
     width: 200px;
     border-radius: 5px;
     transition: transform 0.3s;
+    display: block;
 }
 
 .filme img:hover {
